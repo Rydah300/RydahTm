@@ -71,7 +71,7 @@ def jalan(z):
         sys.stdout.flush()
         time.sleep(0.01)
 	
-	def main_apv():
+def main_apv():
 
     imt="110Y=="
 
@@ -168,7 +168,7 @@ def jalan(z):
         os.system('am start https://wa.me/+2349017624430?text=' + tks)
 
 
-logo =                                          """ __   _____  _____ _____ _   _ 
+logo =""\033[1;37m                                        """ __   _____  _____ _____ _   _ 
 
   ________                _______________  
 |          \            |                 \

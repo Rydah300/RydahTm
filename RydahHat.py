@@ -571,8 +571,8 @@ def auto():
     print('  File saved as: /sdcard/'+save_file)
     print(50*'-')
     input('  Press enter to back ')
-    rydah()
+    yasin()
     
     
     
-rydah()
+yasin()
